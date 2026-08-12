@@ -55,7 +55,6 @@
         "difficulty": 1,
         "topics": [
           "optional_values",
-          "strings",
           "text_formatting"
         ]
       },
@@ -68,7 +67,6 @@
         "difficulty": 1,
         "topics": [
           "optional_values",
-          "strings",
           "text_formatting"
         ]
       },
@@ -80,8 +78,7 @@
         "prerequisites": [],
         "difficulty": 1,
         "topics": [
-          "arrays",
-          "strings"
+          "arrays"
         ]
       },
       {
@@ -92,7 +89,6 @@
         "prerequisites": [],
         "difficulty": 2,
         "topics": [
-          "strings",
           "arrays"
         ]
       },
@@ -104,7 +100,6 @@
         "prerequisites": [],
         "difficulty": 3,
         "topics": [
-          "strings",
           "arrays"
         ]
       },
@@ -129,8 +124,7 @@
         "prerequisites": [],
         "difficulty": 1,
         "topics": [
-          "numbers",
-          "strings"
+          "numbers"
         ]
       },
       {
@@ -141,7 +135,6 @@
         "prerequisites": [],
         "difficulty": 2,
         "topics": [
-          "strings",
           "transforming"
         ]
       },
@@ -189,8 +182,7 @@
           "loops",
           "lists",
           "maps",
-          "searching",
-          "strings"
+          "searching"
         ]
       },
       {
@@ -205,7 +197,6 @@
           "pattern_recognition",
           "polymorphism",
           "regular_expressions",
-          "strings",
           "unicode"
         ]
       },
@@ -262,8 +253,7 @@
         "difficulty": 4,
         "topics": [
           "integers",
-          "logic",
-          "strings"
+          "logic"
         ]
       },
       {
@@ -369,7 +359,6 @@
           "conditionals",
           "loops",
           "randomness",
-          "strings",
           "text_formatting",
           "transforming"
         ]
@@ -387,8 +376,7 @@
           "exception_handling",
           "parsing",
           "pattern_recognition",
-          "regular_expressions",
-          "strings"
+          "regular_expressions"
         ]
       },
       {
@@ -415,7 +403,6 @@
           "loops",
           "lists",
           "regular_expressions",
-          "strings",
           "unicode"
         ]
       },
@@ -460,8 +447,7 @@
         "prerequisites": [],
         "difficulty": 2,
         "topics": [
-          "loops",
-          "strings"
+          "loops"
         ]
       },
       {
@@ -517,8 +503,7 @@
         "topics": [
           "arrays",
           "conditionals",
-          "loops",
-          "strings"
+          "loops"
         ]
       },
       {
@@ -531,7 +516,6 @@
         "topics": [
           "conditionals",
           "integers",
-          "strings",
           "transforming"
         ]
       },
@@ -545,8 +529,7 @@
         "topics": [
           "conditionals",
           "loops",
-          "equality",
-          "strings"
+          "equality"
         ]
       },
       {
@@ -560,7 +543,6 @@
           "arrays",
           "conditionals",
           "loops",
-          "strings",
           "text_formatting"
         ]
       },
@@ -573,8 +555,7 @@
         "difficulty": 5,
         "topics": [
           "conditionals",
-          "loops",
-          "strings"
+          "loops"
         ]
       },
       {
@@ -595,8 +576,7 @@
         "topics": [
           "conditionals",
           "loops",
-          "maps",
-          "strings"
+          "maps"
         ]
       },
       {
@@ -652,8 +632,7 @@
         "topics": [
           "conditionals",
           "loops",
-          "integers",
-          "strings"
+          "integers"
         ]
       },
       {
@@ -722,7 +701,6 @@
         "topics": [
           "loops",
           "regular_expressions",
-          "strings",
           "transforming"
         ]
       },
@@ -734,8 +712,7 @@
         "prerequisites": [],
         "difficulty": 2,
         "topics": [
-          "filtering",
-          "strings"
+          "filtering"
         ]
       },
       {
@@ -749,8 +726,7 @@
           "conditionals",
           "loops",
           "filtering",
-          "searching",
-          "strings"
+          "searching"
         ]
       },
       {
@@ -777,7 +753,6 @@
         "topics": [
           "loops",
           "exception_handling",
-          "strings",
           "text_formatting"
         ]
       },
@@ -849,8 +824,7 @@
           "exception_handling",
           "integers",
           "math",
-          "regular_expressions",
-          "strings"
+          "regular_expressions"
         ]
       },
       {
@@ -876,8 +850,7 @@
           "arrays",
           "conditionals",
           "loops",
-          "recursion",
-          "strings"
+          "recursion"
         ]
       },
       {
@@ -891,8 +864,7 @@
           "conditionals",
           "loops",
           "pattern_recognition",
-          "regular_expressions",
-          "strings"
+          "regular_expressions"
         ]
       },
       {
@@ -907,7 +879,6 @@
           "loops",
           "games",
           "regular_expressions",
-          "strings",
           "transforming"
         ]
       },
@@ -923,7 +894,6 @@
           "conditionals",
           "loops",
           "optional_values",
-          "strings",
           "text_formatting"
         ]
       },
@@ -938,8 +908,7 @@
           "conditionals",
           "loops",
           "pattern_recognition",
-          "polymorphism",
-          "strings"
+          "polymorphism"
         ]
       },
       {
@@ -952,8 +921,7 @@
         "status": "deprecated",
         "topics": [
           "conditionals",
-          "loops",
-          "strings"
+          "loops"
         ]
       },
       {
@@ -968,7 +936,6 @@
           "loops",
           "exception_handling",
           "integers",
-          "strings",
           "text_formatting"
         ]
       },
@@ -983,8 +950,7 @@
           "arrays",
           "conditionals",
           "loops",
-          "matrices",
-          "strings"
+          "matrices"
         ]
       },
       {
@@ -1032,7 +998,6 @@
           "loops",
           "lists",
           "matrices",
-          "strings",
           "text_formatting"
         ]
       },
@@ -1297,8 +1262,7 @@
           "loops",
           "exception_handling",
           "games",
-          "parsing",
-          "strings"
+          "parsing"
         ]
       },
       {
@@ -1327,7 +1291,6 @@
           "parsing",
           "pattern_recognition",
           "regular_expressions",
-          "strings",
           "text_formatting"
         ]
       },
@@ -1360,8 +1323,7 @@
         "difficulty": 3,
         "topics": [
           "conditionals",
-          "loops",
-          "strings"
+          "loops"
         ]
       },
       {
@@ -1372,7 +1334,6 @@
         "prerequisites": [],
         "difficulty": 4,
         "topics": [
-          "strings",
           "iterators"
         ]
       },
@@ -1447,21 +1408,15 @@
         "difficulty": 5,
         "topics": [
           "parsing",
-          "stacks",
-          "strings"
+          "stacks"
         ]
       },
       {
         "slug": "tournament",
         "name": "Tournament",
         "uuid": "f4634d37-2357-4b54-8cd8-ad450234537a",
-        "practices": [
-          "string-formatting"
-        ],
-        "prerequisites": [
-          "strings",
-          "string-formatting"
-        ],
+        "practices": [],
+        "prerequisites": [],
         "difficulty": 6
       },
       {
@@ -1502,7 +1457,6 @@
           "arrays",
           "conditionals",
           "loops",
-          "strings",
           "text_formatting"
         ]
       },
