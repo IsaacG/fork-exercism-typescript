@@ -25,7 +25,7 @@
     "flag.tests.includes-optional": false,
     "flag.tests.jest": true,
     "flag.tests.tstyche": false
-  },
-  "source": "The Calculating DNA Nucleotides_problem at Rosalind",
+  }
+  "source": "The Counting DNA Nucleotides problem at Rosalind",
   "source_url": "https://rosalind.info/problems/dna/"
 }

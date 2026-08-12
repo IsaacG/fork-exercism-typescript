@@ -27,7 +27,7 @@
     "flag.tests.includes-optional": false,
     "flag.tests.jest": true,
     "flag.tests.tstyche": false
-  },
+  }
   "source": "Taken from Chapter 2 of Functional Thinking by Neal Ford.",
-  "source_url": "https://www.oreilly.com/library/view/functional-thinking/9781449365509/"
+  "source_url": "https://nealford.com/books/functionalthinking.html"
 }
